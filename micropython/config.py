@@ -1,0 +1,5 @@
+SSID = "YOUR-WIFI"
+PASSWORD = "YOUR-WIFI-PASSWORD"
+TOKEN = "BBUS-0oOW64dLa4i4ityElQQJ2CfKmdw1Xg"
+FLASK_API_URL = "http://your-server-ip:5000/api/sensors"
+API_KEY = "sensorvers3"
