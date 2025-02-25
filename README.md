@@ -98,7 +98,7 @@ node server.js
 ## Contributors 🏆  
 Glitch Hunters
 👨‍💻 **Fael @burnblazter** (Lead Developer)  
-👨‍💻 **Khanza @khanzaarezi**  
+👨‍💻 **Khansa @khansaarezi**  
 👨‍💻 **Cania @canai23**  
 👨‍💻 **Vincent @vincentnc** 
 
@@ -114,7 +114,7 @@ Through this project, we gained experience in:
 
 ## License 📝  
 
-This project is licensed under the **MIT License** – see [LICENSE.md](LICENSE) for details.  
+This project is licensed under the **MIT License** – see [LICENSE](LICENSE) for details.  
 
 ## Acknowledgments 🙏  
 
