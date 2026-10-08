@@ -9,7 +9,7 @@ app = Flask(__name__)
 CORS(app)  # enable CORS for all routes
 
 # configure mongodb connection
-app.config["MONGO_URI"] = "YOUR-MONGO-URI"
+app.config["MONGO_URI"] = "mongodb+srv://bhagaskara:Skr5hjuNTvpkJ0jt@glitchhunterdb.utkjx.mongodb.net/?retryWrites=true&w=majority&appName=glitchhunterdb"
 # alternative: use an environment variable for better security
 # app.config["MONGO_URI"] = os.environ.get("MONGO_URI", "mongodb://localhost:27017/sensorverse")
 
